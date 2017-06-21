@@ -8,7 +8,7 @@ Hello Coders! This is our second weekly challenge and we are extremely excited t
 
 -Submit by 11:59PM EST this Saturday! (June 17, 2017)
 
-[COMPETITION IS OPEN]
+[COMPETITION IS CLOSED]
 
 THEME: Fire
 
